@@ -1,0 +1,768 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: theme: responsive\n"
+"Report-Msgid-Bugs-To: contact@xiligroup.com\n"
+"POT-Creation-Date: 2012-04-22T17:58:22+00:00\n"
+"PO-Revision-Date: 2012-04-22T17:58:22+00:00\n"
+"Last-Translator: admin <ch_rambler@rambler.ru>\n"
+"Language-Team: xili-dictionary WP plugin and  <ch_rambler@rambler.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-Language: en_US\n"
+"X-Poedit-Country: en_US\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Кафе и рестораны"
+msgstr ""
+
+msgid "% Comments &#187;"
+msgstr ""
+
+msgid "% Comments &darr;"
+msgstr ""
+
+msgid "&#39;"
+msgstr ""
+
+msgid " &#8211; "
+msgstr ""
+
+msgid "&#8249; Older comments"
+msgstr ""
+
+msgid "&#8249; Older posts"
+msgstr ""
+
+msgid "&#8249; Return to"
+msgstr ""
+
+msgid "&#9166; Home"
+msgstr ""
+
+msgid "&copy;"
+msgstr ""
+
+msgid "&larr; Home"
+msgstr ""
+
+msgid "&uarr;"
+msgstr ""
+
+msgid "</span><!-- end of .post-search-terms -->"
+msgstr ""
+
+msgid "<div class=\"read-more\">Read more &#8250;</div><!-- end of .read-more -->"
+msgstr ""
+
+msgid "<span class=\"%1$s\">Posted on</span> %2$s by %3$s"
+msgstr ""
+
+msgid "<span class=\"post-search-terms\">"
+msgstr ""
+
+msgid "1 Comment &#187;"
+msgstr ""
+
+msgid "1 Comment &darr;"
+msgstr ""
+
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "About Us"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "am"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "Aperture: f&#47;"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "Apr_April_abbreviation"
+msgstr ""
+
+msgid "Area Eight - sidebar-home.php"
+msgstr ""
+
+msgid "Area Five - sidebar-right-half.php"
+msgstr ""
+
+msgid "Area Four - sidebar-left-half.php"
+msgstr ""
+
+msgid "Area Nine - sidebar-gallery.php"
+msgstr ""
+
+msgid "Area One - sidebar.php"
+msgstr ""
+
+msgid "Area Seven - sidebar-home.php"
+msgstr ""
+
+msgid "Area Six - sidebar-home.php"
+msgstr ""
+
+msgid "Area Three - sidebar-left.php"
+msgstr ""
+
+msgid "Area Two - sidebar-right.php"
+msgstr ""
+
+msgid "articles for "
+msgstr ""
+
+msgid "Articles posted by "
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "Aug_August_abbreviation"
+msgstr ""
+
+msgid "Bing Site Verification"
+msgstr ""
+
+msgid "bing_site_verification"
+msgstr ""
+
+msgid "Blog Archives"
+msgstr ""
+
+msgid "Book table"
+msgstr ""
+
+msgid "Call to Action"
+msgstr ""
+
+msgid "Call to Action (Text)"
+msgstr ""
+
+msgid "Call to Action (URL)"
+msgstr ""
+
+msgid "Camera:"
+msgstr ""
+
+msgid "Cancel reply"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Check to disable"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Content Area"
+msgstr ""
+
+msgid "cta_text"
+msgstr ""
+
+msgid "cta_url"
+msgstr ""
+
+msgid "Custom Header"
+msgstr ""
+
+msgid "d.m.Y"
+msgstr ""
+
+msgid "d.M.Y"
+msgstr ""
+
+msgid "Daily Archives: %s"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Dec_December_abbreviation"
+msgstr ""
+
+msgid "Disable Breadcrumb Lists?"
+msgstr ""
+
+msgid "Disable Call to Action Button?"
+msgstr ""
+
+msgid "Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our options here."
+msgstr ""
+
+msgid "Don't panic, we'll get through this together. Let's explore our options here."
+msgstr ""
+
+msgid "Download menu"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Enter your Bing ID number only"
+msgstr ""
+
+msgid "Enter your call to action text"
+msgstr ""
+
+msgid "Enter your call to action URL"
+msgstr ""
+
+msgid "Enter your content"
+msgstr ""
+
+msgid "Enter your Facebook URL"
+msgstr ""
+
+msgid "Enter your Google ID number only"
+msgstr ""
+
+msgid "Enter your Google+ URL"
+msgstr ""
+
+msgid "Enter your headline"
+msgstr ""
+
+msgid "Enter your LinkedIn URL"
+msgstr ""
+
+msgid "Enter your RSS Feed URL"
+msgstr ""
+
+msgid "Enter your StumbleUpon URL"
+msgstr ""
+
+msgid "Enter your subheadline"
+msgstr ""
+
+msgid "Enter your Twitter URL"
+msgstr ""
+
+msgid "Enter your Yahoo ID number only"
+msgstr ""
+
+msgid "Enter your YouTube URL"
+msgstr ""
+
+msgid "Error 404"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "facebook_uid"
+msgstr ""
+
+msgid "Featured Content"
+msgstr ""
+
+msgid "featured_content"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "Feb_February_abbreviation"
+msgstr ""
+
+msgid "Focal Length:"
+msgstr ""
+
+msgid "Footer Menu"
+msgstr ""
+
+msgid "for"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Full Size:"
+msgstr ""
+
+msgid "F_Friday_initial"
+msgstr ""
+
+msgid "g:i a"
+msgstr ""
+
+msgid "Gallery Sidebar"
+msgstr ""
+
+msgid "Go"
+msgstr ""
+
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr ""
+
+msgid "Google Site Verification"
+msgstr ""
+
+msgid "Google+"
+msgstr ""
+
+msgid "google_plus_uid"
+msgstr ""
+
+msgid "google_site_verification"
+msgstr ""
+
+msgid "Header Menu"
+msgstr ""
+
+msgid "Headline"
+msgstr ""
+
+msgid "Hello, World!"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "home"
+msgstr ""
+
+msgid "Home Page"
+msgstr ""
+
+msgid "Home Widget 1"
+msgstr ""
+
+msgid "Home Widget 2"
+msgstr ""
+
+msgid "Home Widget 3"
+msgstr ""
+
+msgid "home_content_area"
+msgstr ""
+
+msgid "home_headline"
+msgstr ""
+
+msgid "home_subheadline"
+msgstr ""
+
+msgid "http://themeid.com/responsive-theme"
+msgstr ""
+
+msgid "http://wordpress.org"
+msgstr ""
+
+msgid "Image Information"
+msgstr ""
+
+msgid "In Archive"
+msgstr ""
+
+msgid "ISO:"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "Jan_January_abbreviation"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "Jul_July_abbreviation"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "Jun_June_abbreviation"
+msgstr ""
+
+msgid "Latest Posts"
+msgstr ""
+
+msgid "Leave a Reply"
+msgstr ""
+
+msgid "Leave a Reply to %s"
+msgstr ""
+
+msgid "Left Sidebar"
+msgstr ""
+
+msgid "Left Sidebar Half Page"
+msgstr ""
+
+msgid "LinkedIn"
+msgstr ""
+
+msgid "linkedin_uid"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+msgid "Logo Upload"
+msgstr ""
+
+msgid "Main Sidebar"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "Mar_March_abbreviation"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "May_May_abbreviation"
+msgstr ""
+
+msgid "mm"
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Monthly Archives: %s"
+msgstr ""
+
+msgid "My Account"
+msgstr ""
+
+msgid "M_Monday_initial"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Need to replace or remove default logo? <a href=\"%s\">Click here</a>."
+msgstr ""
+
+msgid "Newer comments &#8250;"
+msgstr ""
+
+msgid "Newer posts &#8250;"
+msgstr ""
+
+msgid "No Comments &#187;"
+msgstr ""
+
+msgid "No Comments &darr;"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "Nov_November_abbreviation"
+msgstr ""
+
+msgid "number_format_decimal_point"
+msgstr ""
+
+msgid "number_format_thousands_sep"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "Oct_October_abbreviation"
+msgstr ""
+
+msgid "Options Saved"
+msgstr ""
+
+msgid "or search for the page you were looking for"
+msgstr ""
+
+msgid "Order Delivery"
+msgstr ""
+
+msgid "Other contacts"
+msgstr ""
+
+msgid "p304"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "Pages:"
+msgstr ""
+
+msgid "Paste your video or image source"
+msgstr ""
+
+msgid "Permanent Link to %s"
+msgstr ""
+
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+msgid "pm"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "Post Comment"
+msgstr ""
+
+msgid "Posted in %s"
+msgstr ""
+
+msgid "Posts tagged &#39;"
+msgstr ""
+
+msgid "Read more &#8250;"
+msgstr ""
+
+msgid "Read more &#8250;;"
+msgstr ""
+
+msgid "Read more &raquo;"
+msgstr ""
+
+msgid " Required fields are marked <span class=\"required\">*</span>"
+msgstr ""
+
+msgid "Responsive Theme"
+msgstr ""
+
+msgid "Restaurants &amp; Cafés listings"
+msgstr ""
+
+msgid "Restaurants &amp; Cafés"
+msgstr ""
+
+msgid "Right Sidebar"
+msgstr ""
+
+msgid "Right Sidebar Half Page"
+msgstr ""
+
+msgid "RSS Feed"
+msgstr ""
+
+msgid "rss_uid"
+msgstr ""
+
+msgid "Sat"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Save Options"
+msgstr ""
+
+msgid "scroll to top"
+msgstr ""
+
+msgid "search here &hellip;"
+msgstr ""
+
+msgid "Search results for &#39;"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "Sep_September_abbreviation"
+msgstr ""
+
+msgid "Shutter:"
+msgstr ""
+
+msgid "Site Statistics Tracker"
+msgstr ""
+
+msgid "site_statistics_tracker"
+msgstr ""
+
+msgid "Social Icons"
+msgstr ""
+
+msgid "StumbleUpon"
+msgstr ""
+
+msgid "stumble_uid"
+msgstr ""
+
+msgid "Sub-Header Menu"
+msgstr ""
+
+msgid "Subheadline"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "S_Saturday_initial"
+msgstr ""
+
+msgid "S_Sunday_initial"
+msgstr ""
+
+msgid "Tagged with:"
+msgstr ""
+
+msgid "Theme Elements"
+msgstr ""
+
+msgid "Theme Options"
+msgstr ""
+
+msgid " Theme Options"
+msgstr ""
+
+msgid "This is your first home widget box. To edit please go to Appearance > Widgets and choose 6th widget from the top in area six called Home Widget 1. Title is also managable from widgets as well."
+msgstr ""
+
+msgid "This is your second home widget box. To edit please go to Appearance > Widgets and choose 7th widget from the top in area seven called Home Widget 2. Title is also managable from widgets as well."
+msgstr ""
+
+msgid "This is your third home widget box. To edit please go to Appearance > Widgets and choose 8th widget from the top in area eight called Home Widget 3. Title is also managable from widgets as well."
+msgstr ""
+
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+msgid "Thu"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Today specials"
+msgstr ""
+
+msgid "Top Menu"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "twitter_uid"
+msgstr ""
+
+msgid "T_Thursday_initial"
+msgstr ""
+
+msgid "T_Tuesday_initial"
+msgstr ""
+
+msgid "Untitled"
+msgstr ""
+
+msgid "View all posts by %s"
+msgstr ""
+
+msgid "We found"
+msgstr ""
+
+msgid "Webmaster Tools"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Wed"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "WordPress"
+msgstr ""
+
+msgid "Working Hours"
+msgstr ""
+
+msgid "W_Wednesday_initial"
+msgstr ""
+
+msgid "Yahoo Site Verification"
+msgstr ""
+
+msgid "yahoo_site_verification"
+msgstr ""
+
+msgid "Yearly Archives: %s"
+msgstr ""
+
+msgid "You can return"
+msgstr ""
+
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr ""
+
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+msgid "Your email address will not be published."
+msgstr ""
+
+msgid "Your H2 subheadline here"
+msgstr ""
+
+msgid ""
+"Your title, subtitle and this very content is editable from Theme Option. \n"
+"\t\t\t\t\t      Call to Action button and its destination link as well. Image on your right \n"
+"\t\t\t\t\t\t  can be an image or even YouTube video if you like."
+msgstr ""
+
+msgid "YouTube"
+msgstr ""
+
+msgid "youtube_uid"
+msgstr ""
+
+msgid "Без рубрики"
+msgstr ""
+
+msgid "Ещё один сайт на WordPress"
+msgstr ""

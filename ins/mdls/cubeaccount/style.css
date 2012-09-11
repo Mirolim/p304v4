@@ -1,0 +1,60 @@
+.cubeacct-message,
+#login_error{
+	border-radius:3px;
+	-moz-border-radius:3px;
+	padding:8px;
+	margin-bottom:16px;
+	border-width:1px;
+	border-style:solid;
+}
+
+.cubeacct-message{
+	background:#D4FFCF;
+	border-color:#4F9C44;
+}
+
+#login_error{
+	background:#FFEBE8;
+	border-color:#C00;
+
+}
+
+.message{
+	font-weight:bold;
+}
+
+br.clear{
+	display:none;
+}
+
+#pass-strength-result{
+	background:red;
+	display:inline-block;
+	padding:10px 20px;
+	margin-bottom:15px;
+}
+
+#pass-strength-result{
+	background-color:#eee;
+	border-color:#ddd!important;
+}
+
+#pass-strength-result.bad{
+	background-color:#ffb78c;
+	border-color:#ff853c!important;
+}
+
+#pass-strength-result.good{
+	background-color:#ffec8b;
+	border-color:#fc0!important;
+}
+
+#pass-strength-result.short{
+	background-color:#ffa0a0;
+	border-color:#f04040!important;
+}
+
+#pass-strength-result.strong{
+	background-color:#c3ff88;
+	border-color:#8dff1c!important;
+}

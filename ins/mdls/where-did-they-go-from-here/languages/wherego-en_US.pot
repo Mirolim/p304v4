@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Top 10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-24 22:36+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ajay D'Souza <me@ajaydsouza.com>\n"
+"Language-Team: Ajay D'Souza <me@ajaydsouza.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.inc.php:48
+msgid "Options saved successfully."
+msgstr ""
+
+#: admin.inc.php:57
+msgid "Options set to Default."
+msgstr ""
+
+#: admin.inc.php:63
+msgid "All visitor browsing data captured by the plugin has been deleted!"
+msgstr ""
+
+#: admin.inc.php:78
+msgid "Options:"
+msgstr ""
+
+#: admin.inc.php:83
+msgid "Number of posts to display: "
+msgstr ""
+
+#: admin.inc.php:87
+msgid "Exclude Categories: "
+msgstr ""
+
+#: admin.inc.php:105
+msgid "Add list of posts to the post content on single posts. <br />If you choose to disable this, please add <code>&lt;?php if(function_exists('echo_ald_wherego')) echo_ald_wherego(); ?&gt;</code> to your template file where you want it displayed"
+msgstr ""
+
+#: admin.inc.php:111
+msgid "Add list of posts to feed"
+msgstr ""
+
+#: admin.inc.php:117
+msgid "Display list of posts in Edit Posts / Pages"
+msgstr ""
+
+#: admin.inc.php:123
+msgid "Append link to this plugin as item. Optional, but would be nice to give me some link love"
+msgstr ""
+
+#: admin.inc.php:127
+msgid "Output Options:"
+msgstr ""
+
+#: admin.inc.php:131
+msgid "Title of posts: "
+msgstr ""
+
+#: admin.inc.php:138
+msgid "Exclude pages from the post list"
+msgstr ""
+
+#: admin.inc.php:144
+msgid "Show post excerpt in list?"
+msgstr ""
+
+#: admin.inc.php:149
+msgid "Length of excerpt (in words): "
+msgstr ""
+
+#: admin.inc.php:153
+msgid "Customize the output:"
+msgstr ""
+
+#: admin.inc.php:156
+msgid "HTML to display before the list of posts: "
+msgstr ""
+
+#: admin.inc.php:162
+msgid "HTML to display before each list item: "
+msgstr ""
+
+#: admin.inc.php:168
+msgid "HTML to display after each list item: "
+msgstr ""
+
+#: admin.inc.php:174
+msgid "HTML to display after the list of posts: "
+msgstr ""
+
+#: admin.inc.php:178
+msgid "When there are no posts, what should be shown?"
+msgstr ""
+
+#: admin.inc.php:181
+msgid "Blank Output"
+msgstr ""
+
+#: admin.inc.php:185
+msgid "Display custom text: "
+msgstr ""
+
+#: admin.inc.php:189
+msgid "Post thumbnail options:"
+msgstr ""
+
+#: admin.inc.php:193
+msgid "Display thumbnails inline with posts"
+msgstr ""
+
+#: admin.inc.php:197
+msgid "Display only thumbnails, no text"
+msgstr ""
+
+#: admin.inc.php:201
+msgid "Do not display thumbnails, only text."
+msgstr ""
+
+#: admin.inc.php:206
+msgid "Post thumbnail meta field (the meta should point contain the image source): "
+msgstr ""
+
+#: admin.inc.php:213
+msgid "If the postmeta is not set, then should the plugin extract the first image from the post. This can slow down the loading of your post if the first image in the related posts is large in file-size"
+msgstr ""
+
+#: admin.inc.php:216
+msgid "Thumbnail dimensions:"
+msgstr ""
+
+#: admin.inc.php:218
+msgid "Max width: "
+msgstr ""
+
+#: admin.inc.php:223
+msgid "Max height: "
+msgstr ""
+
+#: admin.inc.php:227
+msgid "The plugin will first check if the post contains a thumbnail. If it doesn't then it will check the meta field. If this is not available, then it will show the default image as specified below:"
+msgstr ""
+
+#: admin.inc.php:232
+msgid "Do you want to set options to Default?"
+msgstr ""
+
+#: admin.inc.php:234
+msgid "Reset all content? This will purge WordPress of all visitor browsing information captured by this plugin. There is no going back if you hit the button."
+msgstr ""
+
+#: admin.inc.php:235
+msgid "This will delete all user data"
+msgstr ""
+
+#: admin.inc.php:243
+msgid "Quick links"
+msgstr ""
+
+#: admin.inc.php:245
+msgid "Where did they go from here? "
+msgstr ""
+
+#: admin.inc.php:245
+msgid "plugin page"
+msgstr ""
+
+#: admin.inc.php:246
+msgid "Other plugins"
+msgstr ""
+
+#: admin.inc.php:247
+msgid "Ajay's blog"
+msgstr ""
+
+#: admin.inc.php:248
+#: where-did-they-go-from-here.php:365
+msgid "Support"
+msgstr ""
+
+#: admin.inc.php:249
+msgid "Follow @ajaydsouza on Twitter"
+msgstr ""
+
+#: admin.inc.php:253
+msgid "Recent developments"
+msgstr ""
+
+#: admin.inc.php:258
+msgid "Support the development"
+msgstr ""
+
+#: admin.inc.php:266
+msgid "Enter amount in USD: "
+msgstr ""
+
+#: admin.inc.php:270
+msgid "Send your donation to the author of"
+msgstr ""
+
+#: where-did-they-go-from-here.php:103
+msgid "Powered by"
+msgstr ""
+
+#: where-did-they-go-from-here.php:246
+msgid "<h3>Readers who viewed this page, also viewed:</h3>"
+msgstr ""
+
+#: where-did-they-go-from-here.php:247
+msgid "Visitors have not browsed from this post. Become the first by clicking one of our related posts"
+msgstr ""
+
+#: where-did-they-go-from-here.php:364
+msgid "Settings"
+msgstr ""
+
+#: where-did-they-go-from-here.php:366
+msgid "Donate"
+msgstr ""
+

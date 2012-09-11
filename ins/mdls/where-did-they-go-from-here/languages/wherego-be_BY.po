@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Top 10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-22 13:43-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Web Geeks\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.inc.php:48
+msgid "Options saved successfully."
+msgstr "Налады цалкам захаваны."
+
+#: admin.inc.php:57
+msgid "Options set to Default."
+msgstr "Адноўлены пачатковыя налады."
+
+#: admin.inc.php:63
+msgid "All visitor browsing data captured by the plugin has been deleted!"
+msgstr "Усе дадзеныя пра наведвальнікаў, атрыманыя гэтай убудовай, былі выдалены."
+
+#: admin.inc.php:78
+msgid "Options:"
+msgstr "Опцыі:"
+
+#: admin.inc.php:83
+msgid "Number of posts to display: "
+msgstr "Колькасць пастоў для адлюстравання:"
+
+#: admin.inc.php:87
+msgid "Exclude Categories: "
+msgstr "Выключыць катэгорыі:"
+
+#: admin.inc.php:105
+msgid "Add list of posts to the post content on single posts. <br />If you choose to disable this, please add <code>&lt;?php if(function_exists('echo_ald_wherego')) echo_ald_wherego(); ?&gt;</code> to your template file where you want it displayed"
+msgstr "Дадаць спіс пастоў ва ўтрыманне новага паста. Калі Вы абераце адключыць гэта, калі ласка дадайце <code>&lt;?php if(function_exists('echo_ald_wherego')) echo_ald_wherego(); ?&gt;</code> у ваш файл шаблону, у якім вы жадаеце адлюстраваць спіс."
+
+#: admin.inc.php:111
+msgid "Add list of posts to feed"
+msgstr "Дадаць спіс пастоў у навінавую стужку (фид)"
+
+#: admin.inc.php:117
+msgid "Display list of posts in Edit Posts / Pages"
+msgstr "Паказваць спіс паведамленняў у \"Змяніць паведамленні/Старонкі\""
+
+#: admin.inc.php:123
+msgid "Append link to this plugin as item. Optional, but would be nice to give me some link love"
+msgstr "Дадайце спасылку на гэту ўбудову. Неабавязкова, але было б добра, каб даць мне знак вашай удзячнасці."
+
+#: admin.inc.php:127
+msgid "Output Options:"
+msgstr "Опцыі высновы:"
+
+#: admin.inc.php:131
+msgid "Title of posts: "
+msgstr "Назва паста:"
+
+#: admin.inc.php:138
+msgid "Exclude pages from the post list"
+msgstr "Выключыць старонкі са спісу пастоў"
+
+#: admin.inc.php:144
+msgid "Show post excerpt in list?"
+msgstr "Паказваць утрыманне паста ў спісе?"
+
+#: admin.inc.php:149
+msgid "Length of excerpt (in words): "
+msgstr "Даўжыня тэксту (у словах)"
+
+#: admin.inc.php:153
+msgid "Customize the output:"
+msgstr "Налады высновы:"
+
+#: admin.inc.php:156
+msgid "HTML to display before the list of posts: "
+msgstr "HTML для адлюстравання перад спісам пастоў"
+
+#: admin.inc.php:162
+msgid "HTML to display before each list item: "
+msgstr "HTML для адлюстравання перад кожным элементам спісу"
+
+#: admin.inc.php:168
+msgid "HTML to display after each list item: "
+msgstr "HTML для адлюстравання пасля кожнага элемента спісу"
+
+#: admin.inc.php:174
+msgid "HTML to display after the list of posts: "
+msgstr "HTML для адлюстравання пасля спісу пастоў"
+
+#: admin.inc.php:178
+msgid "When there are no posts, what should be shown?"
+msgstr "Ці няма пастоў, якія павінны быць паказаны?"
+
+#: admin.inc.php:181
+msgid "Blank Output"
+msgstr "Бланк высновы"
+
+#: admin.inc.php:185
+msgid "Display custom text: "
+msgstr "Паказаць карыстацкі тэкст:"
+
+#: admin.inc.php:189
+msgid "Post thumbnail options:"
+msgstr "Налады малюнка-мініяцюры паста:"
+
+#: admin.inc.php:193
+msgid "Display thumbnails inline with posts"
+msgstr "Паказваць убудаваныя ў пост малюнка"
+
+#: admin.inc.php:197
+msgid "Display only thumbnails, no text"
+msgstr "Паказваць толькі малюнак-мініяцюру, без тэксту"
+
+#: admin.inc.php:201
+msgid "Do not display thumbnails, only text."
+msgstr "Паказваць толькі тэкст, без малюнка"
+
+#: admin.inc.php:206
+msgid "Post thumbnail meta field (the meta should point contain the image source): "
+msgstr "Мета-дадзеныя малюнкі (мета-дадзеныя павінны ўтрымоўваць крыніцу малюнка):"
+
+#: admin.inc.php:213
+msgid "If the postmeta is not set, then should the plugin extract the first image from the post. This can slow down the loading of your post if the first image in the related posts is large in file-size"
+msgstr "Калі postmeta не ўсталяваны, то ўбудова здабывае першы малюнак з паста. Гэта можа замарудзіць яго загрузку, калі першы малюнак у пасце занадта вялікае."
+
+#: admin.inc.php:216
+msgid "Thumbnail dimensions:"
+msgstr "Памеры малюнка:"
+
+#: admin.inc.php:218
+msgid "Max width: "
+msgstr "Максімальная шырыня:"
+
+#: admin.inc.php:223
+msgid "Max height: "
+msgstr "Максімальная даўжыня:"
+
+#: admin.inc.php:227
+msgid "The plugin will first check if the post contains a thumbnail. If it doesn't then it will check the meta field. If this is not available, then it will show the default image as specified below:"
+msgstr "Спачатку ўбудова праверыць, ці ўтрымоўвае пост паменшаны малюнак. Калі гэта не атрымаецца, тады ўбудова праверыць мета-дадзеныя. Калі гэта будзе таксама недаступна, значыць убудова пакажа малюнак па змаўчанні, як гэта вызначана ніжэй:"
+
+#: admin.inc.php:232
+msgid "Do you want to set options to Default?"
+msgstr "Вы жадаеце ўсталяваць параметры па змаўчанні?"
+
+#: admin.inc.php:234
+msgid "Reset all content? This will purge WordPress of all visitor browsing information captured by this plugin. There is no going back if you hit the button."
+msgstr "Выдаліць усё змесціва? Гэта ачысціць усю прагляданую інфармацыю наведвальнікамі WordPress, захопленую дадзенай убудовай. Немагчыма аднавіцца, калі Вы націснеце гэту кнопку."
+
+#: admin.inc.php:235
+msgid "This will delete all user data"
+msgstr "Гэта прывядзе да выдалення ўсіх карыстацкіх дадзеных"
+
+#: admin.inc.php:243
+msgid "Quick links"
+msgstr "Хуткія спасылкі"
+
+#: admin.inc.php:245
+msgid "Where did they go from here? "
+msgstr "Куды яны сышлі адгэтуль?"
+
+#: admin.inc.php:245
+msgid "plugin page"
+msgstr "Старонка ўбудовы"
+
+#: admin.inc.php:246
+msgid "Other plugins"
+msgstr "Іншыя ўбудовы"
+
+#: admin.inc.php:247
+msgid "Ajay's blog"
+msgstr "Блог распрацоўніка (Ajay's)"
+
+#: admin.inc.php:248
+msgid "Support forum"
+msgstr "Форум падтрымкі"
+
+#: admin.inc.php:249
+msgid "Follow @ajaydsouza on Twitter"
+msgstr "Follow @ajaydsouza на Твиттер"
+
+#: admin.inc.php:253
+msgid "Recent developments"
+msgstr "Апошнія распрацоўкі"
+
+#: admin.inc.php:258
+msgid "Support the development"
+msgstr "Падтрымка распрацовак"
+
+#: admin.inc.php:266
+msgid "Enter amount in USD: "
+msgstr "Увядзіце суму ў далярах ЗША"
+
+#: admin.inc.php:270
+msgid "Send your donation to the author of"
+msgstr "Адправіць Вашы ахвяраванні аўтару"
+
+#: where-did-they-go-from-here.php:103
+msgid "Powered by"
+msgstr "Powered by"
+
+#: where-did-they-go-from-here.php:246
+msgid "<h3>Readers who viewed this page, also viewed:</h3>"
+msgstr "<h3>Чытачы, якія бачаць гэту старонку, таксама бачаць:</h3>"
+
+#: where-did-they-go-from-here.php:247
+msgid "Visitors have not browsed from this post. Become the first by clicking one of our related posts"
+msgstr "Наведвальнікі нічога не прагледзелі з гэтага паста. Станьце першым, націснуўшы на адзін з нашых злучаных пастоў."
+
+#: where-did-they-go-from-here.php:330
+msgid "Settings"
+msgstr "Налады"
+
+#: where-did-they-go-from-here.php:331
+msgid "Support"
+msgstr "Тэхпадтрымка"
+
+#: where-did-they-go-from-here.php:332
+msgid "Donate"
+msgstr "Ахвяраваць"
+
